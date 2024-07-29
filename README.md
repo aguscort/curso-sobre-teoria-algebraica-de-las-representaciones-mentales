@@ -1,8 +1,8 @@
 # curso en Teoría Algebraica de las Representaciones Mentales (90 créditos):
 
-Primer Semestre
+## Primer Semestre
 
-1. Fundamentos Avanzados de Álgebra para Ciencias Cognitivas (9 créditos)
+### 1. Fundamentos Avanzados de Álgebra para Ciencias Cognitivas (9 créditos)
 
 Justificación: Proporciona una base matemática sólida y profunda necesaria para la modelización algebraica avanzada de procesos cognitivos complejos.
 
@@ -66,7 +66,7 @@ Calificación:
 - Presentaciones en seminarios (10%)
 - Participación en discusiones avanzadas (5%)
 
-2. Modelos Algebraicos Avanzados de la Cognición (9 créditos)
+### 2. Modelos Algebraicos Avanzados de la Cognición (9 créditos)
 
 Justificación: Profundiza en los principios y técnicas de modelización algebraica avanzada de procesos cognitivos complejos.
 
@@ -127,7 +127,7 @@ Calificación:
 - Presentaciones de artículos de investigación (15%)
 - Participación en seminarios avanzados (5%)
 
-3. Teoría Avanzada de Categorías en Ciencia Cognitiva (9 créditos)
+### 3. Teoría Avanzada de Categorías en Ciencia Cognitiva (9 créditos)
 
 Justificación: Profundiza en la aplicación de la teoría de categorías avanzada a la modelización de procesos cognitivos complejos y estructuras mentales.
 
@@ -188,131 +188,7 @@ Calificación:
 - Presentaciones de artículos de investigación de vanguardia (15%)
 - Participación en seminarios de discusión avanzada (5%)
 
-4. Álgebras de Procesos Avanzadas en Cognición (9 créditos)
-
-Justificación: Profundiza en el uso de álgebras de procesos avanzadas para modelar la dinámica compleja de los procesos cognitivos y sus interacciones.
-
-Temario:
-1. Fundamentos avanzados de álgebras de procesos
-   1.1. Cálculo de procesos comunicantes (CCS) y sus extensiones
-      1.1.1. CCS probabilístico y razonamiento bajo incertidumbre
-      1.1.2. CCS temporal y dinámica de procesos mentales
-   1.2. Álgebra de procesos comunicantes (ACP) y razonamiento paralelo
-      1.2.1. Axiomatización de procesos cognitivos paralelos
-      1.2.2. Verificación formal de propiedades cognitivas
-   1.3. Pi-cálculo avanzado y movilidad en estructuras cognitivas
-      1.3.1. Pi-cálculo de orden superior y meta-cognición
-      1.3.2. Pi-cálculo estocástico y fluctuaciones cognitivas
-2. Modelado avanzado de procesos cognitivos concurrentes
-   2.1. Teoría de la concurrencia en atención dividida y multitarea
-      2.1.1. Entrelazamiento de procesos atencionales
-      2.1.2. Detección y resolución de conflictos cognitivos
-   2.2. Procesamiento paralelo avanzado en percepción multimodal
-      2.2.1. Sincronización de flujos sensoriales heterogéneos
-      2.2.2. Fusión de información en presencia de ruido e incertidumbre
-   2.3. Interacción compleja entre sistemas de memoria
-      2.3.1. Protocolos de comunicación entre memoria de trabajo y largo plazo
-      2.3.2. Consolidación y reconsolidación como procesos concurrentes
-3. Sincronización y comunicación avanzada en procesos mentales
-   3.1. Teoría de la información cuántica en integración sensorial
-      3.1.1. Entrelazamiento cuántico y binding problem
-      3.1.2. Decoherencia y emergencia de la experiencia clásica
-   3.2. Coordinación en tareas cognitivas de alto nivel
-      3.2.1. Coreografías de procesos en resolución de problemas complejos
-      3.2.2. Orquestación de funciones ejecutivas
-   3.3. Sincronización neuronal y teorías de la conciencia
-      3.3.1. Oscilaciones neuronales como procesos comunicantes
-      3.3.2. Integración de información y teoría del espacio de trabajo global
-4. Verificación formal avanzada de modelos cognitivos
-   4.1. Lógicas temporales y epistémicas para propiedades cognitivas complejas
-      4.1.1. CTL* y razonamiento sobre futuros alternativos
-      4.1.2. Lógica epistémica dinámica y actualización de creencias
-   4.2. Model checking de procesos mentales no deterministas
-      4.2.1. Verificación simbólica de modelos cognitivos a gran escala
-      4.2.2. Técnicas de abstracción para estados mentales
-   4.3. Análisis de deadlock y livelock en sistemas cognitivos complejos
-      4.3.1. Detección de bloqueos cognitivos y bucles de pensamiento
-      4.3.2. Estrategias de recuperación y resiliencia cognitiva
-
-Conceptos clave: Álgebras de procesos avanzadas, concurrencia cognitiva compleja, sincronización mental sofisticada, verificación formal de modelos cognitivos no deterministas.
-
-Bibliografía:
-- Milner, R. (1999). Communicating and Mobile Systems: The Pi-Calculus. Cambridge University Press.
-- Baeten, J. C. M., & Weijland, W. P. (1990). Process Algebra. Cambridge University Press.
-- Sangiorgi, D., & Walker, D. (2003). The π-calculus: A Theory of Mobile Processes. Cambridge University Press.
-- Clarke, E. M., Grumberg, O., & Peled, D. A. (1999). Model Checking. MIT Press.
-
-Calificación:
-- Proyecto avanzado de modelado de procesos cognitivos (35%)
-- Examen teórico-práctico comprehensivo (25%)
-- Implementación y análisis de simulaciones complejas (20%)
-- Presentación y defensa de un paper de investigación original (15%)
-- Participación en seminarios y discusiones avanzadas (5%)
-
-Continuación del programa del Máster en Teoría Algebraica de las Representaciones Mentales:
-
-3. Teoría Avanzada de Categorías en Ciencia Cognitiva (9 créditos)
-
-Justificación: Profundiza en la aplicación de la teoría de categorías avanzada a la modelización de procesos cognitivos complejos y estructuras mentales.
-
-Temario:
-1. Fundamentos categóricos avanzados para la cognición
-   1.1. Objetos y morfismos en procesos mentales complejos
-      1.1.1. 2-categorías y meta-cognición
-      1.1.2. Categorías enriquecidas y gradación de procesos cognitivos
-   1.2. Funtores como mapeos entre dominios cognitivos complejos
-      1.2.1. Funtores derivados y abstracción cognitiva
-      1.2.2. Monadas y procesamiento secuencial de información
-   1.3. Transformaciones naturales y cambios conceptuales dinámicos
-      1.3.1. Modificaciones y evolución de esquemas mentales
-      1.3.2. Coherencia y consistencia en el cambio cognitivo
-2. Categorías y conceptualización avanzada
-   2.1. Teoría de prototipos desde una perspectiva categórica sofisticada
-      2.1.1. Categorías difusas y conceptos con límites borrosos
-      2.1.2. Funtores de prototipicalidad y estructuras de semejanza familiar
-   2.2. Jerarquías conceptuales como categorías ordenadas complejas
-      2.2.1. Retículos conceptuales y herencia múltiple
-      2.2.2. Funtores de abstracción y concretización
-   2.3. Fusión conceptual mediante construcciones categóricas avanzadas
-      2.3.1. Productos fibrados y amalgamas conceptuales
-      2.3.2. Pushouts y blending conceptual creativo
-3. Procesos cognitivos como funtores y transformaciones naturales
-   3.1. Percepción como funtor entre categorías sensoriales y conceptuales
-      3.1.1. Funtores de percepción multisensorial
-      3.1.2. Transformaciones naturales y adaptación perceptual
-   3.2. Aprendizaje como transformación natural entre funtores cognitivos
-      3.2.1. Categorías de modelos de aprendizaje
-      3.2.2. Modificaciones y evolución de estrategias de aprendizaje
-   3.3. Razonamiento analógico en términos categóricos avanzados
-      3.3.1. Funtores de analogía y preservación estructural
-      3.3.2. Adjunciones y bidireccionalidad en razonamiento analógico
-4. Topoi y lógica intuicionista avanzada en cognición
-   4.1. Lógica interna de un topos y razonamiento humano no clásico
-      4.1.1. Objeto de verdad y valores de verdad intermedios
-      4.1.2. Negación intuicionista y razonamiento por contraejemplos
-   4.2. Semántica de Kripke-Joyal y modelos mentales sofisticados
-      4.2.1. Haces de creencias y conocimiento contextual
-      4.2.2. Cohomología de haces y obstáculos epistémicos
-   4.3. Teoría de haces avanzada y integración de información sensorial compleja
-      4.3.1. Haces de percepciones multimodales
-      4.3.2. Secciones globales y coherencia perceptual
-
-Conceptos clave: Teoría avanzada de categorías, 2-categorías, categorías enriquecidas, funtores derivados, monadas, topoi, lógica intuicionista avanzada, teoría de haces en cognición.
-
-Bibliografía:
-- Lawvere, F. W., & Schanuel, S. H. (2009). Conceptual Mathematics: A First Introduction to Categories. Cambridge University Press.
-- Lambek, J., & Scott, P. J. (1986). Introduction to Higher-Order Categorical Logic. Cambridge University Press.
-- Healy, M. J., & Caudell, T. P. (2006). Ontologies and Worlds in Category Theory: Implications for Neural Systems. Axiomathes, 16(1-2), 165-214.
-- Goguen, J. A. (1991). A Categorical Manifesto. Mathematical Structures in Computer Science, 1(1), 49-67.
-
-Calificación:
-- Proyecto de investigación avanzado en modelado categórico (35%)
-- Examen teórico comprehensivo (25%)
-- Serie de ensayos críticos sobre aplicaciones avanzadas (20%)
-- Presentaciones de artículos de investigación de vanguardia (15%)
-- Participación en seminarios de discusión avanzada (5%)
-
-4. Álgebras de Procesos Avanzadas en Cognición (9 créditos)
+### 4. Álgebras de Procesos Avanzadas en Cognición (9 créditos)
 
 Justificación: Profundiza en el uso de álgebras de procesos avanzadas para modelar la dinámica compleja de los procesos cognitivos y sus interacciones.
 
@@ -374,11 +250,134 @@ Calificación:
 - Participación en seminarios y discusiones avanzadas (5%)
 
 
+### 3. Teoría Avanzada de Categorías en Ciencia Cognitiva (9 créditos)
+
+Justificación: Profundiza en la aplicación de la teoría de categorías avanzada a la modelización de procesos cognitivos complejos y estructuras mentales.
+
+Temario:
+1. Fundamentos categóricos avanzados para la cognición
+   1.1. Objetos y morfismos en procesos mentales complejos
+      1.1.1. 2-categorías y meta-cognición
+      1.1.2. Categorías enriquecidas y gradación de procesos cognitivos
+   1.2. Funtores como mapeos entre dominios cognitivos complejos
+      1.2.1. Funtores derivados y abstracción cognitiva
+      1.2.2. Monadas y procesamiento secuencial de información
+   1.3. Transformaciones naturales y cambios conceptuales dinámicos
+      1.3.1. Modificaciones y evolución de esquemas mentales
+      1.3.2. Coherencia y consistencia en el cambio cognitivo
+2. Categorías y conceptualización avanzada
+   2.1. Teoría de prototipos desde una perspectiva categórica sofisticada
+      2.1.1. Categorías difusas y conceptos con límites borrosos
+      2.1.2. Funtores de prototipicalidad y estructuras de semejanza familiar
+   2.2. Jerarquías conceptuales como categorías ordenadas complejas
+      2.2.1. Retículos conceptuales y herencia múltiple
+      2.2.2. Funtores de abstracción y concretización
+   2.3. Fusión conceptual mediante construcciones categóricas avanzadas
+      2.3.1. Productos fibrados y amalgamas conceptuales
+      2.3.2. Pushouts y blending conceptual creativo
+3. Procesos cognitivos como funtores y transformaciones naturales
+   3.1. Percepción como funtor entre categorías sensoriales y conceptuales
+      3.1.1. Funtores de percepción multisensorial
+      3.1.2. Transformaciones naturales y adaptación perceptual
+   3.2. Aprendizaje como transformación natural entre funtores cognitivos
+      3.2.1. Categorías de modelos de aprendizaje
+      3.2.2. Modificaciones y evolución de estrategias de aprendizaje
+   3.3. Razonamiento analógico en términos categóricos avanzados
+      3.3.1. Funtores de analogía y preservación estructural
+      3.3.2. Adjunciones y bidireccionalidad en razonamiento analógico
+4. Topoi y lógica intuicionista avanzada en cognición
+   4.1. Lógica interna de un topos y razonamiento humano no clásico
+      4.1.1. Objeto de verdad y valores de verdad intermedios
+      4.1.2. Negación intuicionista y razonamiento por contraejemplos
+   4.2. Semántica de Kripke-Joyal y modelos mentales sofisticados
+      4.2.1. Haces de creencias y conocimiento contextual
+      4.2.2. Cohomología de haces y obstáculos epistémicos
+   4.3. Teoría de haces avanzada y integración de información sensorial compleja
+      4.3.1. Haces de percepciones multimodales
+      4.3.2. Secciones globales y coherencia perceptual
+
+Conceptos clave: Teoría avanzada de categorías, 2-categorías, categorías enriquecidas, funtores derivados, monadas, topoi, lógica intuicionista avanzada, teoría de haces en cognición.
+
+Bibliografía:
+- Lawvere, F. W., & Schanuel, S. H. (2009). Conceptual Mathematics: A First Introduction to Categories. Cambridge University Press.
+- Lambek, J., & Scott, P. J. (1986). Introduction to Higher-Order Categorical Logic. Cambridge University Press.
+- Healy, M. J., & Caudell, T. P. (2006). Ontologies and Worlds in Category Theory: Implications for Neural Systems. Axiomathes, 16(1-2), 165-214.
+- Goguen, J. A. (1991). A Categorical Manifesto. Mathematical Structures in Computer Science, 1(1), 49-67.
+
+Calificación:
+- Proyecto de investigación avanzado en modelado categórico (35%)
+- Examen teórico comprehensivo (25%)
+- Serie de ensayos críticos sobre aplicaciones avanzadas (20%)
+- Presentaciones de artículos de investigación de vanguardia (15%)
+- Participación en seminarios de discusión avanzada (5%)
+
+### 4. Álgebras de Procesos Avanzadas en Cognición (9 créditos)
+
+Justificación: Profundiza en el uso de álgebras de procesos avanzadas para modelar la dinámica compleja de los procesos cognitivos y sus interacciones.
+
+Temario:
+1. Fundamentos avanzados de álgebras de procesos
+   1.1. Cálculo de procesos comunicantes (CCS) y sus extensiones
+      1.1.1. CCS probabilístico y razonamiento bajo incertidumbre
+      1.1.2. CCS temporal y dinámica de procesos mentales
+   1.2. Álgebra de procesos comunicantes (ACP) y razonamiento paralelo
+      1.2.1. Axiomatización de procesos cognitivos paralelos
+      1.2.2. Verificación formal de propiedades cognitivas
+   1.3. Pi-cálculo avanzado y movilidad en estructuras cognitivas
+      1.3.1. Pi-cálculo de orden superior y meta-cognición
+      1.3.2. Pi-cálculo estocástico y fluctuaciones cognitivas
+2. Modelado avanzado de procesos cognitivos concurrentes
+   2.1. Teoría de la concurrencia en atención dividida y multitarea
+      2.1.1. Entrelazamiento de procesos atencionales
+      2.1.2. Detección y resolución de conflictos cognitivos
+   2.2. Procesamiento paralelo avanzado en percepción multimodal
+      2.2.1. Sincronización de flujos sensoriales heterogéneos
+      2.2.2. Fusión de información en presencia de ruido e incertidumbre
+   2.3. Interacción compleja entre sistemas de memoria
+      2.3.1. Protocolos de comunicación entre memoria de trabajo y largo plazo
+      2.3.2. Consolidación y reconsolidación como procesos concurrentes
+3. Sincronización y comunicación avanzada en procesos mentales
+   3.1. Teoría de la información cuántica en integración sensorial
+      3.1.1. Entrelazamiento cuántico y binding problem
+      3.1.2. Decoherencia y emergencia de la experiencia clásica
+   3.2. Coordinación en tareas cognitivas de alto nivel
+      3.2.1. Coreografías de procesos en resolución de problemas complejos
+      3.2.2. Orquestación de funciones ejecutivas
+   3.3. Sincronización neuronal y teorías de la conciencia
+      3.3.1. Oscilaciones neuronales como procesos comunicantes
+      3.3.2. Integración de información y teoría del espacio de trabajo global
+4. Verificación formal avanzada de modelos cognitivos
+   4.1. Lógicas temporales y epistémicas para propiedades cognitivas complejas
+      4.1.1. CTL* y razonamiento sobre futuros alternativos
+      4.1.2. Lógica epistémica dinámica y actualización de creencias
+   4.2. Model checking de procesos mentales no deterministas
+      4.2.1. Verificación simbólica de modelos cognitivos a gran escala
+      4.2.2. Técnicas de abstracción para estados mentales
+   4.3. Análisis de deadlock y livelock en sistemas cognitivos complejos
+      4.3.1. Detección de bloqueos cognitivos y bucles de pensamiento
+      4.3.2. Estrategias de recuperación y resiliencia cognitiva
+
+Conceptos clave: Álgebras de procesos avanzadas, concurrencia cognitiva compleja, sincronización mental sofisticada, verificación formal de modelos cognitivos no deterministas.
+
+Bibliografía:
+- Milner, R. (1999). Communicating and Mobile Systems: The Pi-Calculus. Cambridge University Press.
+- Baeten, J. C. M., & Weijland, W. P. (1990). Process Algebra. Cambridge University Press.
+- Sangiorgi, D., & Walker, D. (2003). The π-calculus: A Theory of Mobile Processes. Cambridge University Press.
+- Clarke, E. M., Grumberg, O., & Peled, D. A. (1999). Model Checking. MIT Press.
+
+Calificación:
+- Proyecto avanzado de modelado de procesos cognitivos (35%)
+- Examen teórico-práctico comprehensivo (25%)
+- Implementación y análisis de simulaciones complejas (20%)
+- Presentación y defensa de un paper de investigación original (15%)
+- Participación en seminarios y discusiones avanzadas (5%)
+
+
 Continuación del programa del Máster en Teoría Algebraica de las Representaciones Mentales:
 
-Segundo Semestre
+## Segundo Semestre
 
-5. Teoría Avanzada de Representaciones en Neurociencia Computacional (9 créditos)
+### 5. Teoría Avanzada de Representaciones en Neurociencia Computacional (9 créditos)
 
 Justificación: Profundiza en la aplicación de teorías de representaciones algebraicas avanzadas al estudio de redes neuronales complejas y procesos cerebrales de alto nivel.
 
@@ -433,7 +432,7 @@ Calificación:
 - Presentación y defensa de un artículo científico original (15%)
 - Participación en seminarios de investigación avanzada (5%)
 
-6. Lógicas Algebraicas Avanzadas y Razonamiento Complejo (9 créditos)
+### 6. Lógicas Algebraicas Avanzadas y Razonamiento Complejo (9 créditos)
 
 Justificación: Explora en profundidad la conexión entre estructuras algebraicas avanzadas y sistemas lógicos sofisticados en el contexto del razonamiento humano de alto nivel.
 
@@ -482,7 +481,7 @@ Calificación:
 - Presentación y defensa de una propuesta de investigación original (15%)
 - Participación en seminarios avanzados y grupos de discusión (5%)
 
-7. Teoría Avanzada de Topos y Modelos Mentales Complejos (9 créditos)
+### 7. Teoría Avanzada de Topos y Modelos Mentales Complejos (9 créditos)
 
 Justificación: Profundiza en la teoría de topos como marco unificador sofisticado para la representación de estructuras mentales complejas y procesos cognitivos de alto nivel.
 
@@ -537,7 +536,7 @@ Calificación:
 - Presentación y defensa de una propuesta de investigación original (15%)
 - Participación en seminarios de investigación de vanguardia (5%)
 
-8. Trabajo Fin de Máster (18 créditos)
+### 8. Trabajo Fin de Máster (18 créditos)
 
 Justificación: Permite al estudiante aplicar en profundidad los conocimientos y habilidades adquiridos en un proyecto de investigación original y sustancial en el campo de la teoría algebraica avanzada de las representaciones mentales.
 
