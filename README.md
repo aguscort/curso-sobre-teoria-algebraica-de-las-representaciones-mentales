@@ -8,48 +8,91 @@ Justificación: Proporciona una base matemática sólida y profunda necesaria pa
 
 Temario:
 1. Estructuras algebraicas fundamentales y avanzadas
+   
    1.1. Grupos, anillos y cuerpos
+   
       1.1.1. Teoremas de Sylow y aplicaciones en cognición
+   
       1.1.2. Extensiones de cuerpos y su relevancia en representaciones mentales
+   
    1.2. Espacios vectoriales y álgebras
+   
       1.2.1. Espacios de Hilbert y su uso en modelos cognitivos cuánticos
+   
       1.2.2. Álgebras de Clifford y su aplicación en representaciones espaciales
+   
    1.3. Homomorfismos, isomorfismos y automorfismos
+   
       1.3.1. Teorema de isomorfismo y su interpretación cognitiva
+   
       1.3.2. Grupos de automorfismos y simetrías en estructuras mentales
+   
 2. Teoría avanzada de representaciones
+   
    2.1. Representaciones lineales de grupos
+   
       2.1.1. Teorema de Maschke y descomposición de representaciones cognitivas
+
       2.1.2. Representaciones inducidas y su papel en la formación de conceptos
+   
    2.2. Caracteres y teoría de caracteres
+   
       2.2.1. Tablas de caracteres y su uso en clasificación de estados mentales
+   
       2.2.2. Productos tensoriales de caracteres y fusión conceptual
+   
    2.3. Representaciones irreducibles y el teorema de Schur
+   
       2.3.1. Lema de Schur y la atomicidad de los conceptos
+   
       2.3.2. Teoría de Burnside y aplicaciones en dinámica cognitiva
+   
 3. Álgebras de Lie y sus representaciones en cognición
+   
    3.1. Definición y propiedades básicas de álgebras de Lie
+   
       3.1.1. Corchete de Lie y su interpretación en procesos mentales
+   
       3.1.2. Identidad de Jacobi y consistencia en razonamiento
+   
    3.2. Clasificación de álgebras de Lie simples y semisimples
+   
       3.2.1. Sistemas de raíces y su relación con estructuras conceptuales
+   
       3.2.2. Diagrama de Dynkin y jerarquías cognitivas
+   
    3.3. Representaciones de álgebras de Lie
+   
       3.3.1. Teorema de Ado y modelos finito-dimensionales de procesos mentales
+   
       3.3.2. Módulos de Verma y desarrollo cognitivo
-4. Teoría avanzada de categorías
+   
+4 . Teoría avanzada de categorías
+    
    4.1. Categorías y funtores
+   
       4.1.1. Categorías abelianas y procesos cognitivos lineales
+      
       4.1.2. Funtores adjuntos y dualidad en cognición
+      
    4.2. Transformaciones naturales y equivalencias de categorías
+   
       4.2.1. Lema de Yoneda y representabilidad de funciones cognitivas
+      
       4.2.2. Monadas y procesamiento de información secuencial
+      
    4.3. Límites, colímites y construcciones universales
+   
       4.3.1. Productos fibrados y fusión de información sensorial
+      
       4.3.2. Cocientes y formación de conceptos abstractos
+      
    4.4. Categorías enriquecidas y teoría de 2-categorías
+   
       4.4.1. Categorías métricas y espacios conceptuales
+      
       4.4.2. Bicategorías y meta-cognición
+      
 
 Conceptos clave: Estructuras algebraicas avanzadas, teoría de representaciones, álgebras de Lie, teoría de categorías, aplicaciones cognitivas de estructuras algebraicas.
 
