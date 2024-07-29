@@ -1,0 +1,1 @@
+# curso-sobre-teor-a-algebraica-de-las-representaciones-mentales-
