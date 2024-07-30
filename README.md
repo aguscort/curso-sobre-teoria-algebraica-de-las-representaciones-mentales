@@ -1,12 +1,13 @@
-# curso en Teoría Algebraica de las Representaciones Mentales (90 créditos):
+Curso en Teoría Algebraica de las Representaciones Mentales (90 créditos):
+==========================================================================
 
 ## Primer Semestre
 
 ### 1. Fundamentos Avanzados de Álgebra para Ciencias Cognitivas (9 créditos)
 
-Justificación: Proporciona una base matemática sólida y profunda necesaria para la modelización algebraica avanzada de procesos cognitivos complejos.
+**Justificación:** Proporciona una base matemática sólida y profunda necesaria para la modelización algebraica avanzada de procesos cognitivos complejos.
 
-Temario:
+**Temario:**
 1. Estructuras algebraicas fundamentales y avanzadas
    
    1.1. Grupos, anillos y cuerpos
@@ -94,15 +95,15 @@ Temario:
       4.4.2. Bicategorías y meta-cognición
       
 
-Conceptos clave: Estructuras algebraicas avanzadas, teoría de representaciones, álgebras de Lie, teoría de categorías, aplicaciones cognitivas de estructuras algebraicas.
+**Conceptos clave:** Estructuras algebraicas avanzadas, teoría de representaciones, álgebras de Lie, teoría de categorías, aplicaciones cognitivas de estructuras algebraicas.
 
-Bibliografía:
+**Bibliografía:**
 - Fulton, W., & Harris, J. (1991). Representation Theory: A First Course. Springer.
 - Mac Lane, S. (1998). Categories for the Working Mathematician. Springer.
 - Humphreys, J. E. (1972). Introduction to Lie Algebras and Representation Theory. Springer.
 - Awodey, S. (2010). Category Theory. Oxford University Press.
 
-Calificación:
+**Calificación:**
 - Exámenes teóricos (30%)
 - Resolución de problemas avanzados (25%)
 - Proyecto de investigación (30%)
@@ -111,9 +112,9 @@ Calificación:
 
 ### 2. Modelos Algebraicos Avanzados de la Cognición (9 créditos)
 
-Justificación: Profundiza en los principios y técnicas de modelización algebraica avanzada de procesos cognitivos complejos.
+**Justificación:** Profundiza en los principios y técnicas de modelización algebraica avanzada de procesos cognitivos complejos.
 
-Temario:
+**Temario:**
 1. Fundamentos avanzados de la representación mental algebraica
    1.1. Conceptos como elementos de álgebras abstractas
       1.1.1. Álgebras de conceptos y operaciones mentales
@@ -155,15 +156,15 @@ Temario:
       4.3.1. Haces de significado y contexto
       4.3.2. Lógica interna de topos y ambigüedad lingüística
 
-Conceptos clave: Representaciones mentales algebraicas avanzadas, modelos tensoriales de memoria, lógicas algebraicas no clásicas, gramáticas categoriales, semántica algebraica avanzada.
+**Conceptos clave:** Representaciones mentales algebraicas avanzadas, modelos tensoriales de memoria, lógicas algebraicas no clásicas, gramáticas categoriales, semántica algebraica avanzada.
 
-Bibliografía:
+**Bibliografía:**
 - Gärdenfors, P. (2000). Conceptual Spaces: The Geometry of Thought. MIT Press.
 - Smolensky, P., & Legendre, G. (2006). The Harmonic Mind: From Neural Computation to Optimality-Theoretic Grammar. MIT Press.
 - Coecke, B., Sadrzadeh, M., & Clark, S. (2010). Mathematical foundations for a compositional distributional model of meaning. arXiv preprint arXiv:1003.4394.
 - Lambek, J. (1958). The mathematics of sentence structure. The American Mathematical Monthly, 65(3), 154-170.
 
-Calificación:
+**Calificación:**
 - Proyecto de investigación avanzado (35%)
 - Examen teórico comprensivo (25%)
 - Serie de ensayos críticos (20%)
@@ -172,9 +173,9 @@ Calificación:
 
 ### 3. Teoría Avanzada de Categorías en Ciencia Cognitiva (9 créditos)
 
-Justificación: Profundiza en la aplicación de la teoría de categorías avanzada a la modelización de procesos cognitivos complejos y estructuras mentales.
+**Justificación:** Profundiza en la aplicación de la teoría de categorías avanzada a la modelización de procesos cognitivos complejos y estructuras mentales.
 
-Temario:
+**Temario:**
 1. Fundamentos categóricos avanzados para la cognición
    1.1. Objetos y morfismos en procesos mentales complejos
       1.1.1. 2-categorías y meta-cognición
@@ -216,15 +217,15 @@ Temario:
       4.3.1. Haces de percepciones multimodales
       4.3.2. Secciones globales y coherencia perceptual
 
-Conceptos clave: Teoría avanzada de categorías, 2-categorías, categorías enriquecidas, funtores derivados, monadas, topoi, lógica intuicionista avanzada, teoría de haces en cognición.
+**Conceptos clave:** Teoría avanzada de categorías, 2-categorías, categorías enriquecidas, funtores derivados, monadas, topoi, lógica intuicionista avanzada, teoría de haces en cognición.
 
-Bibliografía:
+**Bibliografía:**
 - Lawvere, F. W., & Schanuel, S. H. (2009). Conceptual Mathematics: A First Introduction to Categories. Cambridge University Press.
 - Lambek, J., & Scott, P. J. (1986). Introduction to Higher-Order Categorical Logic. Cambridge University Press.
 - Healy, M. J., & Caudell, T. P. (2006). Ontologies and Worlds in Category Theory: Implications for Neural Systems. Axiomathes, 16(1-2), 165-214.
 - Goguen, J. A. (1991). A Categorical Manifesto. Mathematical Structures in Computer Science, 1(1), 49-67.
 
-Calificación:
+**Calificación:**
 - Proyecto de investigación avanzado en modelado categórico (35%)
 - Examen teórico comprehensivo (25%)
 - Serie de ensayos críticos sobre aplicaciones avanzadas (20%)
@@ -233,9 +234,9 @@ Calificación:
 
 ### 4. Álgebras de Procesos Avanzadas en Cognición (9 créditos)
 
-Justificación: Profundiza en el uso de álgebras de procesos avanzadas para modelar la dinámica compleja de los procesos cognitivos y sus interacciones.
+**Justificación:** Profundiza en el uso de álgebras de procesos avanzadas para modelar la dinámica compleja de los procesos cognitivos y sus interacciones.
 
-Temario:
+**Temario:**
 1. Fundamentos avanzados de álgebras de procesos
    1.1. Cálculo de procesos comunicantes (CCS) y sus extensiones
       1.1.1. CCS probabilístico y razonamiento bajo incertidumbre
@@ -277,15 +278,15 @@ Temario:
       4.3.1. Detección de bloqueos cognitivos y bucles de pensamiento
       4.3.2. Estrategias de recuperación y resiliencia cognitiva
 
-Conceptos clave: Álgebras de procesos avanzadas, concurrencia cognitiva compleja, sincronización mental sofisticada, verificación formal de modelos cognitivos no deterministas.
+**Conceptos clave:** Álgebras de procesos avanzadas, concurrencia cognitiva compleja, sincronización mental sofisticada, verificación formal de modelos cognitivos no deterministas.
 
-Bibliografía:
+**Bibliografía:**
 - Milner, R. (1999). Communicating and Mobile Systems: The Pi-Calculus. Cambridge University Press.
 - Baeten, J. C. M., & Weijland, W. P. (1990). Process Algebra. Cambridge University Press.
 - Sangiorgi, D., & Walker, D. (2003). The π-calculus: A Theory of Mobile Processes. Cambridge University Press.
 - Clarke, E. M., Grumberg, O., & Peled, D. A. (1999). Model Checking. MIT Press.
 
-Calificación:
+**Calificación:**
 - Proyecto avanzado de modelado de procesos cognitivos (35%)
 - Examen teórico-práctico comprehensivo (25%)
 - Implementación y análisis de simulaciones complejas (20%)
@@ -295,9 +296,9 @@ Calificación:
 
 ### 3. Teoría Avanzada de Categorías en Ciencia Cognitiva (9 créditos)
 
-Justificación: Profundiza en la aplicación de la teoría de categorías avanzada a la modelización de procesos cognitivos complejos y estructuras mentales.
+**Justificación:** Profundiza en la aplicación de la teoría de categorías avanzada a la modelización de procesos cognitivos complejos y estructuras mentales.
 
-Temario:
+**Temario:**
 1. Fundamentos categóricos avanzados para la cognición
    1.1. Objetos y morfismos en procesos mentales complejos
       1.1.1. 2-categorías y meta-cognición
@@ -339,15 +340,15 @@ Temario:
       4.3.1. Haces de percepciones multimodales
       4.3.2. Secciones globales y coherencia perceptual
 
-Conceptos clave: Teoría avanzada de categorías, 2-categorías, categorías enriquecidas, funtores derivados, monadas, topoi, lógica intuicionista avanzada, teoría de haces en cognición.
+**Conceptos clave:** Teoría avanzada de categorías, 2-categorías, categorías enriquecidas, funtores derivados, monadas, topoi, lógica intuicionista avanzada, teoría de haces en cognición.
 
-Bibliografía:
+**Bibliografía:**
 - Lawvere, F. W., & Schanuel, S. H. (2009). Conceptual Mathematics: A First Introduction to Categories. Cambridge University Press.
 - Lambek, J., & Scott, P. J. (1986). Introduction to Higher-Order Categorical Logic. Cambridge University Press.
 - Healy, M. J., & Caudell, T. P. (2006). Ontologies and Worlds in Category Theory: Implications for Neural Systems. Axiomathes, 16(1-2), 165-214.
 - Goguen, J. A. (1991). A Categorical Manifesto. Mathematical Structures in Computer Science, 1(1), 49-67.
 
-Calificación:
+**Calificación:**
 - Proyecto de investigación avanzado en modelado categórico (35%)
 - Examen teórico comprehensivo (25%)
 - Serie de ensayos críticos sobre aplicaciones avanzadas (20%)
