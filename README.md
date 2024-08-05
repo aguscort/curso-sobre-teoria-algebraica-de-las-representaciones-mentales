@@ -116,44 +116,83 @@ Curso en Teoría Algebraica de las Representaciones Mentales (90 créditos):
 
 **Temario:**
 1. Fundamentos avanzados de la representación mental algebraica
+   
    1.1. Conceptos como elementos de álgebras abstractas
+   
       1.1.1. Álgebras de conceptos y operaciones mentales
+   
       1.1.2. Homomorfismos conceptuales y mapeo cognitivo
+   
    1.2. Operaciones mentales como transformaciones algebraicas
+   
       1.2.1. Grupos de transformaciones cognitivas
+   
       1.2.2. Invariantes bajo transformaciones y esencias conceptuales
+   
    1.3. Estructuras de conocimiento como variedades algebraicas
+   
       1.3.1. Topología de espacios de conocimiento
+   
       1.3.2. Cohomología y obstáculos al aprendizaje
-2. Álgebra avanzada de la memoria
+   
+4. Álgebra avanzada de la memoria
+   
    2.1. Modelos tensoriales de la memoria semántica
+   
       2.1.1. Descomposición tensorial y recuperación de información
+   
       2.1.2. Productos tensoriales jerárquicos y estructuras de conocimiento
+   
    2.2. Álgebras de Hopf en recuperación de información
+   
       2.2.1. Coproducto y asociación de memorias
+   
       2.2.2. Antípoda y corrección de errores en recuerdos
+   
    2.3. Representaciones categoriales de la memoria episódica
+   
       2.3.1. Funtores de olvido y retención
+   
       2.3.2. Transformaciones naturales y evolución de recuerdos
-3. Álgebra avanzada del razonamiento
+   
+6. Álgebra avanzada del razonamiento
+   
    3.1. Lógicas algebraicas no clásicas y razonamiento no monotónico
+   
       3.1.1. Álgebras de Heyting y razonamiento intuicionista
+   
       3.1.2. Lógicas paraconsistentes y manejo de contradicciones
+   
    3.2. Modelos categóricos del razonamiento inductivo
+   
       3.2.1. Funtores de generalización y especialización
+   
       3.2.2. Límites inductivos y formación de conceptos
+   
    3.3. Álgebras de procesos en razonamiento paralelo
+   
       3.3.1. Cálculo de procesos comunicantes en deliberación
+   
       3.3.2. Pi-cálculo y movilidad de conceptos
-4. Representaciones algebraicas avanzadas del lenguaje
+   
+8. Representaciones algebraicas avanzadas del lenguaje
+
    4.1. Gramáticas categoriales y composicionalidad
+   
       4.1.1. Cálculo de Lambek y sintaxis algebraica
+   
       4.1.2. Semántica de juegos y pragmática formal
+   
    4.2. Semántica vectorial distribucional
+   
       4.2.1. Espacios de palabras y composicionalidad tensorial
+   
       4.2.2. Modelos cuánticos del significado
+   
    4.3. Topos lingüísticos y semántica situacional
+   
       4.3.1. Haces de significado y contexto
+   
       4.3.2. Lógica interna de topos y ambigüedad lingüística
 
 **Conceptos clave:** Representaciones mentales algebraicas avanzadas, modelos tensoriales de memoria, lógicas algebraicas no clásicas, gramáticas categoriales, semántica algebraica avanzada.
@@ -177,44 +216,83 @@ Curso en Teoría Algebraica de las Representaciones Mentales (90 créditos):
 
 **Temario:**
 1. Fundamentos categóricos avanzados para la cognición
+   
    1.1. Objetos y morfismos en procesos mentales complejos
+   
       1.1.1. 2-categorías y meta-cognición
+   
       1.1.2. Categorías enriquecidas y gradación de procesos cognitivos
+   
    1.2. Funtores como mapeos entre dominios cognitivos complejos
+   
       1.2.1. Funtores derivados y abstracción cognitiva
+   
       1.2.2. Monadas y procesamiento secuencial de información
+   
    1.3. Transformaciones naturales y cambios conceptuales dinámicos
+   
       1.3.1. Modificaciones y evolución de esquemas mentales
+   
       1.3.2. Coherencia y consistencia en el cambio cognitivo
-2. Categorías y conceptualización avanzada
+   
+3. Categorías y conceptualización avanzada
+4. 
    2.1. Teoría de prototipos desde una perspectiva categórica sofisticada
+   
       2.1.1. Categorías difusas y conceptos con límites borrosos
+   
       2.1.2. Funtores de prototipicalidad y estructuras de semejanza familiar
+   
    2.2. Jerarquías conceptuales como categorías ordenadas complejas
+   
       2.2.1. Retículos conceptuales y herencia múltiple
+   
       2.2.2. Funtores de abstracción y concretización
+   
    2.3. Fusión conceptual mediante construcciones categóricas avanzadas
+   
       2.3.1. Productos fibrados y amalgamas conceptuales
+   
       2.3.2. Pushouts y blending conceptual creativo
-3. Procesos cognitivos como funtores y transformaciones naturales
+   
+6. Procesos cognitivos como funtores y transformaciones naturales
+7. 
    3.1. Percepción como funtor entre categorías sensoriales y conceptuales
+   
       3.1.1. Funtores de percepción multisensorial
+   
       3.1.2. Transformaciones naturales y adaptación perceptual
+   
    3.2. Aprendizaje como transformación natural entre funtores cognitivos
+   
       3.2.1. Categorías de modelos de aprendizaje
+   
       3.2.2. Modificaciones y evolución de estrategias de aprendizaje
+   
    3.3. Razonamiento analógico en términos categóricos avanzados
+   
       3.3.1. Funtores de analogía y preservación estructural
+   
       3.3.2. Adjunciones y bidireccionalidad en razonamiento analógico
-4. Topoi y lógica intuicionista avanzada en cognición
+   
+9. Topoi y lógica intuicionista avanzada en cognición
+    
    4.1. Lógica interna de un topos y razonamiento humano no clásico
+   
       4.1.1. Objeto de verdad y valores de verdad intermedios
+   
       4.1.2. Negación intuicionista y razonamiento por contraejemplos
+   
    4.2. Semántica de Kripke-Joyal y modelos mentales sofisticados
+   
       4.2.1. Haces de creencias y conocimiento contextual
+   
       4.2.2. Cohomología de haces y obstáculos epistémicos
+   
    4.3. Teoría de haces avanzada y integración de información sensorial compleja
+   
       4.3.1. Haces de percepciones multimodales
+   
       4.3.2. Secciones globales y coherencia perceptual
 
 **Conceptos clave:** Teoría avanzada de categorías, 2-categorías, categorías enriquecidas, funtores derivados, monadas, topoi, lógica intuicionista avanzada, teoría de haces en cognición.
